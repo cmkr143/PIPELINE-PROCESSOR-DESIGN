@@ -16,7 +16,7 @@ DESCRIPTION OF TASK LIKE HOW YOU PERFORMED AND WHAT YOU HAVE TO DO DONE AND PAST
 
 Pipelining in VLSI processor design is a technique that breaks down instruction processing into stages, allowing multiple instructions to be executed concurrently and improving performance. This approach is crucial for achieving high throughput in modern processors. 
 
-
+<img width="641" height="241" alt="Image" src="https://github.com/user-attachments/assets/b55b2230-22a7-4e80-bb81-d0c5efeeb492" />
 
 Key Concepts:
 # Stages:
